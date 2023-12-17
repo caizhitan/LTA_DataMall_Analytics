@@ -37,7 +37,8 @@ Annex A & Annex B gives us more detailed explaination of our variables in the da
 We can retrieve our dataset by date by sending a Request Qurey Parameter: `Date=YYYYMM`
 This will give us a temporarily AWS S3 Bucket link for downloading.
 
-[insert postman photo here]
+![Postman API](https://github.com/caizhitan/LTA_DataMall_Analytics/assets/150103035/ef80df6f-b09d-4019-bf9e-1586f33e76c2)
+
 
 ## Understanding our Dataset.
 
